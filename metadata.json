@@ -1,0 +1,6 @@
+{
+  "name": "Glyph Interface",
+  "description": "Complete Nothing Phone (2a) Glyph Interface Controller, Simulator, Sound Composer, Music Visualizer, and HyperOS/AOSP Porting Hardware Driver Bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
